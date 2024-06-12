@@ -23,6 +23,14 @@ function HomepageHeader() {
             看看word
           </Link>
         </div>
+        <div className={styles.homepagebtn}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://creedchung.top"
+          >
+            Creed's Homepage
+          </Link>
+        </div>
       </div>
     </header>
   );

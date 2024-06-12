@@ -21,6 +21,9 @@
   align-items: center;
   justify-content: center;
 }
+.homepagebtn{
+  margin-top: 20px;
+}
 header{
   height: 80vh;
 
