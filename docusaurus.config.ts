@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "zh-Hans",
+    locales: ["zh-Hans"],
   },
 
   presets: [
@@ -70,7 +70,6 @@ const config: Config = {
           position: "left",
           label: "Document",
         },
-        { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/NeitherCupid139?tab=repositories",
           label: "GitHub",
