@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "30b38d1288f1612a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5211f6243313951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5b73889b86103e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/ITPM/Chapter1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71cfe1dc81440795",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fb56aa099809ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b14cb1ad2796490",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9af5ecadd7185222",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93880ad0a741be9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eadcce05e024e731",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecafcf0c528f4814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb65f484faa27c82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/ITPM/Chapter1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c60a97d17feb2be5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/ITPM/Chapter1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e87823155fbdf876",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62751117c298c263",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/ITPM/Chapter1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f5b73889b86103e0",
+  "lastOpenFiles": [
+    "docs/ITPM/Chapter4.md",
+    "docs/ITPM/Chapter2.md",
+    "docs/ITPM/Chapter1.md",
+    "docs/ITPM/Chapter5.md"
+  ]
+}
