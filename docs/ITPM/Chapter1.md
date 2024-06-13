@@ -124,4 +124,3 @@ Job descriptions vary, but most include responsibilities like planning, scheduli
 a. Certified Project Manager (CPM) b. Project Management Professional (PMP®)
 c. Project Management Expert (PME) d. Project Management Mentor (PMM)
 ## answers 1. d; 2. c; 3. c; 4. d; 5. c; 6. a; 7. a; 8. b; 9. d; 10. b
-5555
