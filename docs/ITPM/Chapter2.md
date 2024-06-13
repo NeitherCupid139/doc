@@ -1,5 +1,3 @@
-
-# Chapter2
 ## What are parts of systems approach and Explain
 Systems philosophy: an overall model for thinking about things as systems
 Systems analysis: problem-solving approach
