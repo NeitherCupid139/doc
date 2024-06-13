@@ -57,62 +57,7 @@ A project management plan is a document used to coordinate all project planning 
 ## 15)     Define. Project charter.
 ●project charter is a document that formally recognizes the existence of a project and provides direction on the project’s objectives and management
 
-## select Question
+## 1)   List and explain methods for selecting projects.
 
- 1. Which of the following processes is not part of project integration
- management? a. Developing the project business case 
-b. Developing the project charter 
-c. Developing the project management plan 
-d. Closing the project or phase
- 2. What is the last step in the four-stage planning process for selecting IT
- projects? a. IT strategy planning 
-b. Business area analysis 
-c. Mind mapping 
-d. Resource allocation
- 3. Which of the following is not a best practice for new product development
- projects? a. Aligning projects and resources with business strategy 
-b. Selecting projects that will take less than two years to provide payback c.
- Focusing on customer needs in identifying projects 
-d. Assigning project managers to lead projects
- 4. A new government law requires an organization to report data in a new
- way. Which of the following categories would include a new information
- system project to provide this data? a. Problem 
-b. Opportunity 
-c. Directive 
-d. Regulation
- 5. If estimates for total discounted benefits for a project are $120,000 and
- total discounted costs are $100,000, what is the estimated return on
- investment (ROI)? a. $20,000 
-b. $120,000 
-c. 20 percent 
-d. 120 percent
- 6. A ____________ is a document that formally recognizes the existence of
- a project and provides direction on the project’s objectives and management. 
-a. project charter 
-b. contract 
-c. business case 
-d. project management plan
- 7. Which of the following items is not normally included in a project
- charter? a. The name of the project manager 
-b. Budget information 
-c. Stakeholder signatures 
-d. A Gantt chart
- 8. ____________ ensures that the descriptions of the project’s products are
- correct and complete. 
-a. Configuration management 
-b. Integrated change control
- c. Integration management 
-d. A change control board
-9. Which of the following is not a suggestion for performing integrated
- change control? a. Use good configuration management. 
-b. Minimize change. 
-c. Establish a formal change control system. 
-d. View project management as a process of constant communication and
- negotiation.
- 10. What tool and technique is used for all processes of project integration
- management? a. Project management software 
-b. Templates 
-c. Expert judgment 
-d. All of the above
- Quick Quiz answers 
-## answers 1. a; 2. d; 3. b; 4. c; 5. c; 6. a; 7. d; 8. a; 9. b; 10. c
+## 2)   List and develop project charter ITTO.
+## 3)   List and explain project integration management processes.
