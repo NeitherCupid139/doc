@@ -20,7 +20,8 @@ Implementing a balanced scorecard
 ○Payback analysis
 ## 5)   What is NPV? Write the formula for NPV.
 ●Net present value (NPV) analysis is a method of calculating the expected net monetary gain or loss from a project by discounting all expected future cash inflows and outflows to the present point in time
-![[Pasted image 20240613213848.png]]
+![image.png](https://s2.loli.net/2024/06/14/wjgScP8sRo9i4KV.png)
+
 ●The formula for the discount factor is $1/(1+r)^t$
 ## 6)   Define ROI? Write the formula for ROI.
 •ROI is a ratio between the net benefits and the net cost of an investment.•is calculated by subtracting the project costs from the benefits and then dividing by the costs
