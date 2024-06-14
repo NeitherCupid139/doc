@@ -12,21 +12,21 @@ A project is “a temporary endeavor undertaken to create a unique product, serv
 - Higher worker morale
 
 ## 3.    List out the projects attributes?
-- Temporary: A project has a specific beginning and end.
-- Unique: A project creates a unique product, service, or result.
-- Interrelated activities: A project consists of a series of interrelated activities.
-- Constraints: A project is constrained by scope, time, and cost.
-- Goal-oriented: A project is undertaken to achieve a specific goal or objective.
-- Risk: A project involves a degree of uncertainty and risk.
-- Resources: A project requires the allocation of resources, including people, materials, and equipment.
-- Stakeholders: A project involves multiple stakeholders, including the project team, customers, and other interested parties.
+- Has a unique purpose
+- Is temporary
+- Is developed using progressive elaboration
+- Requires resources, often from various areas
+- Should have a primary customer or sponsor
+  - The project sponsor usually provides the direction and funding for the project
+- Involves uncertainty
 ## 4.    What is project management?
  Project management is the application of ­knowledge, skills ,tools and techniques to project activities to meet project requirements
 ## 5.    What is management?
 Management  is  the  process  of  designing  and  maintaining  an environment  in  which  different  individuals  working  together  in the form of groups effectively and efficiently accomplished the desired objectives
 ## 6.    List out the project management framework.
-
-![[Pasted image 20240613235054.png]]
+10 Knowledge areas
+Tools andtechniques
+Project portfolio
 ## 7.    List out the project management knowledge areas?
 1.**Project scope management** involves defining and managing all the work required to complete the project successfully.
 2.Project **time** management includes estimating how long it will take to complete the work, developing an acceptable project schedule, and ensuring timely completion of the project.
@@ -38,11 +38,18 @@ Management  is  the  process  of  designing  and  maintaining  an enviro
 8.Project procurement management involves acquiring or procuring goods and services for a project from outside the performing organization.
 9.Project stakeholder management includes identifying and analyzing stakeholder needs while managing and controlling their engagement throughout the life of the project.
 10.Project integration management is an overarching function that affects and is affected by all of the other knowledge areas.
+## Define Super tools
+"Super tools" are those tools that have high use and high potential for improving project success
 ## 8.    List out the super tools.
 - Software for task scheduling
 - Scope statements
 - Requirements analyses
 - Lessons-learned reports
+Tools already extensively used that have been found to improve project importance include:
+- Progress reports
+- Kick-off meetings
+- Gantt charts
+- Change requests
 ## 9.    What helps project succeed?
 1. User involvement
 2. Executive support
@@ -67,9 +74,10 @@ refers to the centralized management of one or more portfolios. It includes iden
 ## 14.    Define stakeholder.
 Stakeholders are the people involved in or affected by project activities
 ## 15.    List out the project manager job description.
-Consulting firm 
-•Financial services firm 
-•Nonprofit consulting firm
+ Planning
+ Scheduling
+Coordinating
+Working with people to achieve project goals
 ## 16.    What are the most important skills for project manager?
 1. People skills
 2. Leadership
@@ -82,7 +90,7 @@ Consulting firm
 9. Critical thinking, problem solving
 10. Understands, balances priorities
 ## 17.    What are project management triple constrain?
-scope goals, time goals, and cost goals. I
+scope goals, time goals, and cost goals. 
 
 ## 18.    Define scope, cost and time.
 - Scope: Scope goals refer to what work will be done in a project.
@@ -98,19 +106,12 @@ scope goals, time goals, and cost goals. I
 ## 1.    Explain project management knowledge areas.
 Project scope management involves defining and managing all the work required to complete the project successfully. This includes creating a project scope statement, defining the project's boundaries, and managing changes to the project scope.
 
-  
-
 Project time management includes estimating how long it will take to complete the work, developing an acceptable project schedule, and ensuring timely completion of the project. This involves creating a project schedule, identifying the critical path, and managing project delays.
-
-  
 
 Project cost management consists of preparing and managing the budget for the project. This includes estimating project costs, creating a project budget, and controlling project costs.
 
-  
-
 Project quality management ensures that the project will satisfy the stated or implied needs for which it was undertaken. This involves creating a quality plan, performing quality assurance, and controlling quality.
 
-  
 
 Project human resource management is concerned with making effective use of the people involved with the project. This includes identifying project roles and responsibilities, acquiring the necessary project team members, and managing the project team.
 
@@ -134,23 +135,29 @@ Project stakeholder management includes identifying and analyzing stakeholder ne
 
 Project integration management is an overarching function that affects and is affected by all of the other knowledge areas. This includes developing a project charter, creating a project management plan, and managing project changes.
 ## 2.    Draw project management framework.
-![[Pasted image 20240613235054.png]]
+![image.png](https://s2.loli.net/2024/06/14/3mWw9RFJEb8CNkS.png)
 ## 3.    Explain sample project portfolio approach.
-1. Define the portfolio: The first step is to define the scope and boundaries of the portfolio. This includes identifying the types of projects that will be included in the portfolio, as well as the strategic objectives that the portfolio is intended to support.
-2. Select projects: Once the portfolio has been defined, projects are selected based on their alignment with the portfolio's strategic objectives. Projects may be selected based on a variety of criteria, such as their potential return on investment, their strategic importance, or their resource requirements.
-3. Prioritize projects: After projects have been selected, they are prioritized based on their importance and urgency. This helps to ensure that the most critical projects are executed first, and that resources are allocated appropriately.
-4. Allocate resources: Once projects have been prioritized, resources are allocated to each project based on its resource requirements. This includes assigning staff, equipment, and other resources to each project.
-5. Manage projects: The final step is to manage the projects within the portfolio. This includes monitoring project progress, managing risks, and making adjustments as needed to ensure that the portfolio meets its strategic objectives.
+自行解决
 ## 4.    Difference between project management and project portfolio management.
-1. Focus: Project management focuses on the individual project, ensuring that it is completed on time, within budget, and meets the specified requirements. Project portfolio management, on the other hand, focuses on the overall portfolio of projects, aligning them with the organization's strategic goals and optimizing the allocation of resources.
-2. Scope: Project management deals with the specific activities, tasks, and deliverables of a single project. It involves planning, executing, monitoring, and controlling the project to achieve its objectives. Project portfolio management encompasses multiple projects and considers the interdependencies and interactions between them.
-3. Decision-making: In project management, decisions are made primarily at the project level, considering the specific needs and constraints of that project. In project portfolio management, decisions are made at a higher level, taking into account the strategic priorities of the organization and the potential impact on the portfolio as a whole.
-4. Resource allocation: Project management involves allocating resources (such as people, time, and budget) to the individual project to ensure its successful execution. Project portfolio management involves allocating resources across the portfolio, balancing the needs of different projects and maximizing the overall value of the portfolio.
-5. Risk management: Both project management and project portfolio management involve risk management, but the scope and approach may differ. Project management focuses on identifying and managing risks specific to the individual project. Project portfolio management considers risks at the portfolio level, such as the impact of one project's risks on other projects or the organization as a whole.
-6. Strategic alignment: Project portfolio management emphasizes the alignment of projects with the organization's strategic objectives. It ensures that the portfolio of projects supports the organization's long-term goals and contributes to its overall success. Project management, while also considering the project's objectives, may not have the same level of strategic focus.
-7. Metrics and measurement: Project management typically uses metrics such as project schedule, cost, and quality to measure the performance of the individual project. Project portfolio management uses metrics such as portfolio value, strategic alignment, and resource utilization to evaluate the performance of the portfolio.
-8. Stakeholders: Project management primarily involves interacting with the project team, sponsors, and other stakeholders directly related to the project. Project portfolio management involves engaging with a broader range of stakeholders, including senior management, portfolio managers, and other decision-makers.
+自行解决
+
+
 ## 5.    List and explain project attributes.
+
+- **Unique Purpose**: Each project has a specific objective that sets it apart from other projects. This unique purpose typically results in a distinctive product, service, or result.
+    
+- **Temporary**: Projects have a clear start and end date. They are not ongoing efforts but have a defined timeline.
+    
+- **Drives Change and Enables Value Creation**: Projects are initiated to bring about change and create value. They aim to achieve specific objectives that transition a situation from its current state to a more desired or valued future state.
+    
+- **Progressive Elaboration**: Projects are often defined broadly at the beginning. As the project progresses, the details become clearer and are developed in increments.
+    
+- **Requires Resources from Various Areas**: Projects need various resources, including people, hardware, software, and other assets. These resources often come from different parts of an organization or even external sources.
+    
+- **Primary Customer or Sponsor**: Each project should have a main sponsor who provides direction and funding. This person or group has a vested interest in the project's success.
+    
+- **Involves Uncertainty**: Projects are inherently uncertain because they are unique. This uncertainty can pertain to objectives, timelines, costs, and external factors, making project management challenging. 
+
 
 ## Select Question
 1. By 2027, employers will need over ____________ million individuals working in project management–oriented roles. a. 27 b. 47 c. 67 d. 87 

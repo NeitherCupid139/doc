@@ -138,7 +138,8 @@ Agile software development is a methodology that prioritizes flexibility, collab
 | 3   | The stages typically include requirements gathering, design, implementation, verification, and maintenance.                                | This model is particularly useful for managing complex projects with high risks, as it allows for continuous risk assessment and mitigation throughout the development process. |
 | 4   | Changes to the project scope are carefully managed, and the model is best suited for projects with a low degree of change in requirements. | The spiral approach is more flexible than the waterfall model and can accommodate changes in project scope more easily.                                                         |
 
-![[Pasted image 20240613233349.png]]
+
+![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
 ## 2.   Explain the ten characteristics of organizational culture.
 1. **Member Identity**: The degree to which individuals identify with the organization and its goals.
 2. **Group Emphasis**: The importance placed on group activities and collective achievements over individual accomplishments.

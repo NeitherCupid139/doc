@@ -6,6 +6,7 @@ const config: Config = {
   title: "My Notes",
   tagline: "Freaking awesome notes",
   favicon: "img/favicon.ico",
+  staticDirectories: ["public", "static"],
 
   // Set the production url of your site here
   url: "https://notes.creedchung.top",
